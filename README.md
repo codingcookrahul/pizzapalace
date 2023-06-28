@@ -1,5 +1,2 @@
 #MERN PIZZA PALACE
-
-#FIRST PART 
-FRONT END
-USEING MERN 
+my first project using MERN
